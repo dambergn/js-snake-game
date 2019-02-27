@@ -8,8 +8,6 @@ let canvasWidth = 500; // X
 setCanvas();
 let isMobile = false;
 let gameSpeed = 200;
-let mouse_X = {};
-let mouse_Y = {};
 
 
 // Detects if playing on a touch screen mobile device.
