@@ -1,4 +1,4 @@
-#JavaScript Canvas Snake Game
+# JavaScript Canvas Snake Game
 
 ## ToDo List
 - [ ] set scaleable canvas and assets to screen size.
